@@ -30,16 +30,16 @@
 #menu-list a{
     text-decoration: none;
     color: black;
-    font-size: 125%;
+    font-size: 150%;
 }
 
 #main-container h1{
-    font-size: 150%;;
+    font-size: 175%;;
     padding-top: 20px;
 }
 
 #main-container h2{
-    font-size: 125%;;
+    font-size: 150%;;
     padding-top: 10px;
 }
 
